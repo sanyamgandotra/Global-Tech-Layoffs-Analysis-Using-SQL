@@ -1,0 +1,1 @@
+# Global-Tech-Layoffs-Analysis-Using-SQL
